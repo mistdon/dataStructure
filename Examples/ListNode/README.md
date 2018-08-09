@@ -21,5 +21,5 @@
 
 ## 举例：
 
-1. [如何判断链表是否有环？](./ListNode.playground#L44)
-2. [链表反转](./ListNode.playground#L60)
+1. [如何判断链表是否有环？](./ListNode.playground/Contents.swift#L44)
+2. [链表反转](./ListNode.playground/Contents.swift#L60)
